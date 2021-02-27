@@ -1,0 +1,28 @@
+.page {
+  width: 90%;
+  max-width: 1170px;
+  margin: 0 auto;
+  text-transform: capitalize;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.page article {
+  width: 300px;
+  margin-bottom: 2rem;
+}
+
+.page > article > div {
+  height: 400px;
+  margin-bottom: 20px;
+}
+.page a {
+  display: block;
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.page h2 {
+  text-align: center;
+}

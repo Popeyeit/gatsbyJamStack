@@ -1,0 +1,21 @@
+.page {
+  width: 80vw;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.article {
+}
+.article > div {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto 20px;
+  border: 1px solid black;
+}
+.article > h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.article > p {
+  line-height: 22px;
+}
